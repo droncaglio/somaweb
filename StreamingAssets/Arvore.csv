@@ -1,0 +1,433 @@
+tag;ponto;descricao;modulo;canal;nivel1;nivel2;nivel3;grandeza
+ST_WI_PW001;128;Saida do Circuito 001;T7;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW002;129;Saida do Circuito 002;T7;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW003;130;Saida do Circuito 003;T7;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW004;131;Saida do Circuito 004;T7;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW005;132;Saida do Circuito 005;T7;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW006;133;Saida do Circuito 006;T7;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW007;134;Saida do Circuito 007;T7;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW008;135;Saida do Circuito 008;T7;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW009;136;Saida do Circuito 009;T7;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW010;137;Saida do Circuito 010;T7;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW011;138;Saida do Circuito 011;T7;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW012;139;Saida do Circuito 012;T7;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW013;140;Saida do Circuito 013;T7;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW014;141;Saida do Circuito 014;T8;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW015;142;Saida do Circuito 015;T8;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW016;143;Saida do Circuito 016;T8;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW017;144;Saida do Circuito 017;T8;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW018;145;Saida do Circuito 018;T8;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW019;146;Saida do Circuito 019;T8;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW020;147;Saida do Circuito 020;T8;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW021;148;Saida do Circuito 021;T8;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW022;149;Saida do Circuito 022;T8;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW023;150;Saida do Circuito 023;T8;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW024;151;Saida do Circuito 024;T8;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW025;152;Saida do Circuito 025;T8;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW026;153;Saida do Circuito 026;T8;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW027;154;Saida do Circuito 027;T8;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW028;155;Saida do Circuito 028;T8;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW029;156;Saida do Circuito 029;T8;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW030;157;Saida do Circuito 030;T8;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW031;158;Saida do Circuito 031;T8;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW032;159;Saida do Circuito 032;T8;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW033;160;Saida do Circuito 033;T8;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW034;161;Saida do Circuito 034;T9;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW035;162;Saida do Circuito 035;T9;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW036;163;Saida do Circuito 036;T9;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW037;164;Saida do Circuito 037;T9;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW038;165;Saida do Circuito 038;T9;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW039;166;Saida do Circuito 039;T9;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW040;167;Saida do Circuito 040;T9;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW041;168;Saida do Circuito 041;T9;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW042;169;Saida do Circuito 042;T9;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW043;170;Saida do Circuito 043;T9;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW044;171;Saida do Circuito 044;T9;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW045;172;Saida do Circuito 045;T9;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW046;173;Saida do Circuito 046;T9;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW047;174;Saida do Circuito 047;T9;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW048;175;Saida do Circuito 048;T9;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW049;176;Saida do Circuito 049;T9;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW050;177;Saida do Circuito 050;T9;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW051;178;Saida do Circuito 051;T9;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW052;179;Saida do Circuito 052;T9;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW053;180;Saida do Circuito 053;T9;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW054;181;Saida do Circuito 054;T10;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW055;182;Saida do Circuito 055;T10;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW056;183;Saida do Circuito 056;T10;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW057;184;Saida do Circuito 057;T10;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW058;185;Saida do Circuito 058;T10;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW059;186;Saida do Circuito 059;T10;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW060;187;Saida do Circuito 060;T10;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW061;188;Saida do Circuito 061;T10;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW062;189;Saida do Circuito 062;T10;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW063;190;Saida do Circuito 063;T10;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW064;191;Saida do Circuito 064;T10;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW065;192;Saida do Circuito 065;T10;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW066;193;Saida do Circuito 066;T10;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW067;194;Saida do Circuito 067;T10;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW068;195;Saida do Circuito 068;T10;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW069;196;Saida do Circuito 069;T10;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW070;197;Saida do Circuito 070;T10;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW071;198;Saida do Circuito 071;T10;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW072;199;Saida do Circuito 072;T10;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW073;200;Saida do Circuito 073;T10;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW074;201;Saida do Circuito 074;T11;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW075;202;Saida do Circuito 075;T11;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW076;203;Saida do Circuito 076;T11;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW077;204;Saida do Circuito 077;T11;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW078;205;Saida do Circuito 078;T11;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW079;206;Saida do Circuito 079;T11;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW080;207;Saida do Circuito 080;T11;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW081;208;Saida do Circuito 081;T11;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW082;209;Saida do Circuito 082;T11;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW083;210;Saida do Circuito 083;T11;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW084;211;Saida do Circuito 084;T11;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW085;212;Saida do Circuito 085;T11;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW086;213;Saida do Circuito 086;T11;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW087;214;Saida do Circuito 087;T11;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW088;215;Saida do Circuito 088;T11;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW089;216;Saida do Circuito 089;T11;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW090;217;Saida do Circuito 090;T11;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW091;218;Saida do Circuito 091;T11;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW092;219;Saida do Circuito 092;T11;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW093;220;Saida do Circuito 093;T11;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW094;221;Saida do Circuito 094;T12;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW095;222;Saida do Circuito 095;T12;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW096;223;Saida do Circuito 096;T12;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW097;224;Saida do Circuito 097;T12;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW098;225;Saida do Circuito 098;T12;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW099;226;Saida do Circuito 099;T12;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW100;227;Saida do Circuito 100;T12;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW101;228;Saida do Circuito 101;T12;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW102;229;Saida do Circuito 102;T12;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW103;230;Saida do Circuito 103;T12;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW104;231;Saida do Circuito 104;T12;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW105;232;Saida do Circuito 105;T12;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW106;233;Saida do Circuito 106;T12;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW107;234;Saida do Circuito 107;T12;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW108;235;Saida do Circuito 108;T12;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW109;236;Saida do Circuito 109;T12;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW110;237;Saida do Circuito 110;T12;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW111;238;Saida do Circuito 111;T12;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW112;239;Saida do Circuito 112;T12;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW113;240;Saida do Circuito 113;T12;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW114;241;Saida do Circuito 114;T13;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW115;242;Saida do Circuito 115;T13;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW116;243;Saida do Circuito 116;T13;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW117;244;Saida do Circuito 117;T13;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW118;245;Saida do Circuito 118;T13;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW119;246;Saida do Circuito 119;T13;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW120;247;Saida do Circuito 120;T13;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW121;248;Saida do Circuito 121;T13;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW122;249;Saida do Circuito 122;T13;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW123;250;Saida do Circuito 123;T13;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW124;251;Saida do Circuito 124;T13;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW125;252;Saida do Circuito 125;T13;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW126;253;Saida do Circuito 126;T13;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW127;254;Saida do Circuito 127;T13;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW128;255;Saida do Circuito 128;T13;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW129;256;Saida do Circuito 129;T13;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW130;257;Saida do Circuito 130;T13;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW131;258;Saida do Circuito 131;T13;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW132;259;Saida do Circuito 132;T13;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW133;260;Saida do Circuito 133;T13;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW134;261;Saida do Circuito 134;T14;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW135;262;Saida do Circuito 135;T14;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW136;263;Saida do Circuito 136;T14;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW137;264;Saida do Circuito 137;T14;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW138;265;Saida do Circuito 138;T14;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW139;266;Saida do Circuito 139;T14;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW140;267;Saida do Circuito 140;T14;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW141;268;Saida do Circuito 141;T14;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW142;269;Saida do Circuito 142;T14;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW143;270;Saida do Circuito 143;T14;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW144;271;Saida do Circuito 144;T14;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW145;272;Saida do Circuito 145;T14;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW146;273;Saida do Circuito 146;T14;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW147;274;Saida do Circuito 147;T14;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW148;275;Saida do Circuito 148;T14;14;Gerador;Agua Pura;;Temperatura
+ST_WI_PW149;276;Saida do Circuito 149;T14;15;Gerador;Agua Pura;;Temperatura
+ST_WI_PW150;277;Saida do Circuito 150;T14;16;Gerador;Agua Pura;;Temperatura
+ST_WI_PW151;278;Saida do Circuito 151;T14;17;Gerador;Agua Pura;;Temperatura
+ST_WI_PW152;279;Saida do Circuito 152;T14;18;Gerador;Agua Pura;;Temperatura
+ST_WI_PW153;280;Saida do Circuito 153;T14;19;Gerador;Agua Pura;;Temperatura
+ST_WI_PW154;281;Saida do Circuito 154;T15;0;Gerador;Agua Pura;;Temperatura
+ST_WI_PW155;282;Saida do Circuito 155;T15;1;Gerador;Agua Pura;;Temperatura
+ST_WI_PW156;283;Saida do Circuito 156;T15;2;Gerador;Agua Pura;;Temperatura
+ST_WI_PW157;284;Saida do Circuito 157;T15;3;Gerador;Agua Pura;;Temperatura
+ST_WI_PW158;285;Saida do Circuito 158;T15;4;Gerador;Agua Pura;;Temperatura
+ST_WI_PW159;286;Saida do Circuito 159;T15;5;Gerador;Agua Pura;;Temperatura
+ST_WI_PW160;287;Saida do Circuito 160;T15;6;Gerador;Agua Pura;;Temperatura
+ST_WI_PW161;288;Saida do Circuito 161;T15;7;Gerador;Agua Pura;;Temperatura
+ST_WI_PW162;289;Saida do Circuito 162;T15;8;Gerador;Agua Pura;;Temperatura
+ST_WI_PW163;290;Saida do Circuito 163;T15;9;Gerador;Agua Pura;;Temperatura
+ST_WI_PW164;291;Saida do Circuito 164;T15;10;Gerador;Agua Pura;;Temperatura
+ST_WI_PW165;292;Saida do Circuito 165;T15;11;Gerador;Agua Pura;;Temperatura
+ST_WI_PW166;293;Saida do Circuito 166;T15;12;Gerador;Agua Pura;;Temperatura
+ST_WI_PW167;294;Saida do Circuito 167;T15;13;Gerador;Agua Pura;;Temperatura
+ST_WI_PW168;295;Saida do Circuito 168;T15;14;Gerador;Agua Pura;;Temperatura
+V02_11;428;Entradas Rapidas;V2;11;Gerador;Entreferro;;Deslocamento
+V02_12;429;Entradas Rapidas;V2;12;Gerador;Entreferro;;Deslocamento
+V02_13;430;Entradas Rapidas;V2;13;Gerador;Entreferro;;Deslocamento
+V02_14;431;Entradas Rapidas;V2;14;Gerador;Entreferro;;Deslocamento
+V02_15;432;Entradas Rapidas;V2;15;Gerador;Entreferro;;Deslocamento
+ST_HE_HW_09;113;Trocador de Calor 09;T6;12;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_10;114;Trocador de Calor 10;T6;13;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_11;115;Trocador de Calor 11;T6;14;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_12;116;Trocador de Calor 12;T6;15;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_13;117;Trocador de Calor 13;T6;16;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_14;118;Trocador de Calor 14;T6;17;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_15;119;Trocador de Calor 15;T6;18;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_16;120;Trocador de Calor 16;T6;19;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_01;121;Trocador de Calor 01;T7;0;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_02;122;Trocador de Calor 02;T7;1;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_03;123;Trocador de Calor 03;T7;2;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_04;124;Trocador de Calor 04;T7;3;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_05;125;Trocador de Calor 05;T7;4;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_06;126;Trocador de Calor 06;T7;5;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_HW_07;127;Trocador de Calor 07;T7;6;Gerador;Estator;Agua radiadores;Temperatura
+ST_HE_CA_08;67;Trocador de Calor 08;T4;6;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_09;68;Trocador de Calor 09;T4;7;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_10;69;Trocador de Calor 10;T4;8;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_11;70;Trocador de Calor 11 ;T4;9;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_12;71;Trocador de Calor 12 ;T4;10;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_13;72;Trocador de Calor 13 ;T4;11;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_14;73;Trocador de Calor 14 ;T4;12;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_15;74;Trocador de Calor 15;T4;13;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_16;75;Trocador de Calor 16;T4;14;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_02;77;Trocador de Calor 02 ;T4;16;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_03;78;Trocador de Calor 03 ;T4;17;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_04;79;Trocador de Calor 04 ;T4;18;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_05;80;Trocador de Calor 05;T4;19;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_06;81;Trocador de Calor 06;T5;0;Gerador;Estator;Ar frio;Temperatura
+ST_HE_CA_07;82;Trocador de Calor 07 ;T5;1;Gerador;Estator;Ar frio;Temperatura
+ST_HE_HA_01;344;Trocador de Calor 01 ;T18;3;Gerador;Estator;Ar quente;Temperatura
+ST_HE_HA_05;345;Trocador de Calor 05;T18;4;Gerador;Estator;Ar quente;Temperatura
+ST_HE_HA_09;346;Trocador de Calor 09;T18;5;Gerador;Estator;Ar quente;Temperatura
+ST_HE_HA_13;347;Trocador de Calor 13;T18;6;Gerador;Estator;Ar quente;Temperatura
+ST_WI_03;3;Ranhura 037 - Nivel Superior;T1;2;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_04;4;Ranhura 052 - Nivel Medio;T1;3;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_05;5;Ranhura 081 - Nivel Medio;T1;4;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_06;6;Ranhura 093 - Nivel Inferior;T1;5;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_07;7;Ranhura 108 - Nivel Medio;T1;6;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_08;8;Ranhura 124 - Nivel Superior;T1;7;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_09;9;Ranhura 137 - Nivel Medio;T1;8;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_10;10;Ranhura 165 - Nivel Medio;T1;9;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_11;11;Ranhura 175 - Nivel Inferior;T1;10;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_12;12;Ranhura 193 - Nivel Medio;T1;11;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_13;13;Ranhura 203 - Nivel Superior;T1;12;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_14;14;Ranhura 220 - Nivel Medio;T1;13;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_15;15;Ranhura 249 - Nivel Medio;T1;14;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_16;16;Ranhura 264 - Nivel Inferior;T1;15;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_17;17;Ranhura 276 - Nivel Medio;T1;16;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_18;18;Ranhura 289 - Nivel Superior;T1;17;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_19;19;Ranhura 305 - Nivel Medio;T1;18;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_20;20;Ranhura 333 - Nivel Medio;T1;19;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_21;21;Ranhura 345 - Nivel Inferior;T2;0;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_22;22;Ranhura 361 - Nivel Medio;T2;1;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_23;23;Ranhura 376 - Nivel Superior;T2;2;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_24;24;Ranhura 388 - Nivel Medio;T2;3;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_25;25;Ranhura 417 - Nivel Medio;T2;4;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_26;26;Ranhura 427 - Nivel Inferior;T2;5;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_27;27;Ranhura 444 - Nivel Medio;T2;6;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_28;28;Ranhura 455 - Nivel Superior;T2;7;Gerador;Estator;Enrolamento;Temperatura
+ST_WI_29;29;Ranhura 473 - Nivel Medio;T2;8;Gerador;Estator;Enrolamento;Temperatura
+ST_CO_01;31;Ranhura 19.5 - Nivel Superior;T2;10;Gerador;Estator;Nucleo;Temperatura
+ST_CO_02;32;Ranhura 19.5 - Nivel Inferior;T2;11;Gerador;Estator;Nucleo;Temperatura
+ST_CO_04;34;Ranhura 37.5 - Nivel Superior;T2;13;Gerador;Estator;Nucleo;Temperatura
+ST_CO_05;35;Ranhura 37.5 - Nivel Inferior;T2;14;Gerador;Estator;Nucleo;Temperatura
+ST_CO_06;36;Ranhura 49.5 - Nivel Medio;T2;15;Gerador;Estator;Nucleo;Temperatura
+ST_CO_07;37;Ranhura 93.5 - Nivel Superior;T2;16;Gerador;Estator;Nucleo;Temperatura
+ST_CO_08;38;Ranhura 93.5 - Nivel Inferior;T2;17;Gerador;Estator;Nucleo;Temperatura
+ST_CO_09;39;Ranhura 123.5 - Nivel Superior;T2;18;Gerador;Estator;Nucleo;Temperatura
+ST_CO_10;40;Ranhura 123.5 - Nivel Inferior;T2;19;Gerador;Estator;Nucleo;Temperatura
+ST_CO_12;42;Ranhura 175.5 - Nivel Superior;T3;1;Gerador;Estator;Nucleo;Temperatura
+ST_CO_13;43;Ranhura 175.5 - Nivel Inferior;T3;2;Gerador;Estator;Nucleo;Temperatura
+ST_CO_14;44;Ranhura 190.5 - Nivel Medio;T3;3;Gerador;Estator;Nucleo;Temperatura
+ST_CO_15;45;Ranhura 210.5 - Nivel Superior;T3;4;Gerador;Estator;Nucleo;Temperatura
+ST_CO_16;46;Ranhura 210.5 - Nivel Inferior;T3;5;Gerador;Estator;Nucleo;Temperatura
+ST_CO_17;47;Ranhura 217.5 - Nivel Medio;T3;6;Gerador;Estator;Nucleo;Temperatura
+ST_CO_18;48;Ranhura 246.5 - Nivel Medio;T3;7;Gerador;Estator;Nucleo;Temperatura
+ST_CO_19;49;Ranhura 271.5 - Nivel Superior;T3;8;Gerador;Estator;Nucleo;Temperatura
+ST_CO_20;50;Ranhura 271.5 - Nivel Inferior;T3;9;Gerador;Estator;Nucleo;Temperatura
+ST_CO_21;51;Ranhura 273.5 - Nivel Medio;T3;10;Gerador;Estator;Nucleo;Temperatura
+ST_CO_22;52;Ranhura 288.5 - Nivel Superior;T3;11;Gerador;Estator;Nucleo;Temperatura
+ST_CO_23;53;Ranhura 288.5 - Nivel Inferior;T3;12;Gerador;Estator;Nucleo;Temperatura
+ST_CO_24;54;Ranhura 301.5 - Nivel Medio;T3;13;Gerador;Estator;Nucleo;Temperatura
+ST_CO_25;55;Ranhura 345.5 - Nivel Superior;T3;14;Gerador;Estator;Nucleo;Temperatura
+ST_CO_26;56;Ranhura 345.5 - Nivel Inferior;T3;15;Gerador;Estator;Nucleo;Temperatura
+ST_CO_27;57;Ranhura 375.5 - Nivel Superior;T3;16;Gerador;Estator;Nucleo;Temperatura
+ST_CO_28;58;Ranhura 375.5 - Nivel Inferior;T3;17;Gerador;Estator;Nucleo;Temperatura
+ST_CO_29;59;Ranhura 414.5 - Nivel Medio;T3;18;Gerador;Estator;Nucleo;Temperatura
+ST_CO_30;60;Ranhura 427.5 - Nivel Superior;T3;19;Gerador;Estator;Nucleo;Temperatura
+ST_CO_31;61;Ranhura 427.5 - Nivel Inferior;T4;0;Gerador;Estator;Nucleo;Temperatura
+ST_CO_32;62;Ranhura 441.5 - Nivel Medio;T4;1;Gerador;Estator;Nucleo;Temperatura
+ST_CO_33;63;Ranhura 462.5 - Nivel Superior;T4;2;Gerador;Estator;Nucleo;Temperatura
+ST_CO_34;64;Ranhura 462.5 - Nivel Inferior;T4;3;Gerador;Estator;Nucleo;Temperatura
+ST_CO_35;65;Ranhura 469.5 - Nivel Medio;T4;4;Gerador;Estator;Nucleo;Temperatura
+ST_CO_36;66;Ranhura 496.5 - Nivel Medio;T4;5;Gerador;Estator;Nucleo;Temperatura
+ST_SL_01;320;Ranhura 032 - Nivel Superior;T16;19;Gerador;Estator;Nucleo;Temperatura
+ST_SL_02;321;Ranhura 084 - Nivel Medio;T17;0;Gerador;Estator;Nucleo;Temperatura
+ST_SL_03;322;Ranhura 128 - Nivel Inferior;T17;1;Gerador;Estator;Nucleo;Temperatura
+ST_SL_04;323;Ranhura 162 - Nivel Superior;T17;2;Gerador;Estator;Nucleo;Temperatura
+ST_SL_05;324;Ranhura 202 - Nivel Medio;T17;3;Gerador;Estator;Nucleo;Temperatura
+ST_SL_06;325;Ranhura 250 - Nivel Inferior;T17;4;Gerador;Estator;Nucleo;Temperatura
+ST_SL_07;326;Ranhura 292 - Nivel Superior;T17;5;Gerador;Estator;Nucleo;Temperatura
+ST_SL_08;327;Ranhura 330 - Nivel Medio;T17;6;Gerador;Estator;Nucleo;Temperatura
+ST_SL_09;328;Ranhura 364 - Nivel Inferior;T17;7;Gerador;Estator;Nucleo;Temperatura
+ST_SL_10;329;Ranhura 408 - Nivel Superior;T17;8;Gerador;Estator;Nucleo;Temperatura
+ST_SL_11;330;Ranhura 456 - Nivel Medio;T17;9;Gerador;Estator;Nucleo;Temperatura
+ST_SL_12;331;Ranhura 498 - Nivel Inferior;T17;10;Gerador;Estator;Nucleo;Temperatura
+ST_TH_01;332;Dente 033.5 - Nivel Superior;T17;11;Gerador;Estator;Nucleo;Temperatura
+ST_TH_02;333;Dente 084.5 - Nivel Medio;T17;12;Gerador;Estator;Nucleo;Temperatura
+ST_TH_03;334;Dente 129.5 - Nivel Inferior;T17;13;Gerador;Estator;Nucleo;Temperatura
+ST_TH_04;335;Dente 162.5 - Nivel Superior;T17;14;Gerador;Estator;Nucleo;Temperatura
+ST_TH_05;336;Dente 202.5 - Nivel Medio;T17;15;Gerador;Estator;Nucleo;Temperatura
+ST_TH_06;337;Dente 250.5 - Nivel Inferior;T17;16;Gerador;Estator;Nucleo;Temperatura
+ST_TH_07;338;Dente 292.5 - Nivel Superior;T17;17;Gerador;Estator;Nucleo;Temperatura
+ST_TH_08;339;Dente 330.5 - Nivel Medio;T17;18;Gerador;Estator;Nucleo;Temperatura
+ST_TH_09;340;Dente 364.5 - Nivel Inferior;T17;19;Gerador;Estator;Nucleo;Temperatura
+ST_TH_10;341;Dente 409.5 - Nivel Superior;T18;0;Gerador;Estator;Nucleo;Temperatura
+ST_TH_11;342;Dente 457.5 - Nivel Medio;T18;1;Gerador;Estator;Nucleo;Temperatura
+ST_TH_12;343;Dente 498.5 - Nivel Inferior;T18;2;Gerador;Estator;Nucleo;Temperatura
+ST_CO_BR_AV;401;Direcao 112.5 Montante;V1;0;Gerador;Estator;Nucleo;Aceleracao
+ST_CO_DS_AV;402;Direcao 202.5 Montante;V1;1;Gerador;Estator;Nucleo;Aceleracao
+ST_CO_PY_AV;403;Direcao 292.5 Montante;V1;2;Gerador;Estator;Nucleo;Aceleracao
+ST_CO_US_AV;404;Direcao 22.5 Montante;V1;3;Gerador;Estator;Nucleo;Aceleracao
+ST_FR_BR_TD;426;Lado Brasil;V2;9;Gerador;Estator;;Deflexao Tangencial
+ST_FR_PY_TD;427;Lado Paraguay;V2;10;Gerador;Estator;;Deflexao Tangencial
+BE_CB_IW;374;Entrada Trocador de Calor;T19;13;Gerador;Mancal Combinado;Agua;Temperatura
+BE_CB_HW_08;104;Saida Trocador de Calor 08;T6;3;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_01;105;Saida Trocador de Calor 01;T6;4;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_02;106;Saida Trocador de Calor 02;T6;5;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_03;107;Saida Trocador de Calor 03;T6;6;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_04;108;Saida Trocador de Calor 04;T6;7;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_06;110;Saida Trocador de Calor 06;T6;9;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_HW_07;111;Saida Trocador de Calor 07;T6;10;Gerador;Mancal Combinado;Agua Saida;Temperatura
+BE_CB_OT_01;102;Mancal Combinado - Ponto 01;T6;1;Gerador;Mancal Combinado;Oleo;Temperatura
+BE_TB_PT_03;94;Sapata 03 do Mancal de Escora;T5;13;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_11;97;Sapata 11 do Mancal de Escora;T5;16;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_02;306;Sapata 02 do Mancal de Escora;T16;5;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_06;307;Sapata 06 do Mancal de Escora;T16;6;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_10;308;Sapata 10 do Mancal de Escora;T16;7;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_12;309;Sapata 12 do Mancal de Escora;T16;8;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_14;310;Sapata 14 do Mancal de Escora;T16;9;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_OT_03;362;Mancal Escora - Ponto 03;T19;1;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_07;363;Sapata 07 do Mancal Escora;T19;2;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_04;364;Sapata 04 do Mancal Escora;T19;3;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_01;365;Sapata 01 do Mancal Escora;T19;4;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_15;366;Sapata 15 do Mancal Escora;T19;5;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_TB_PT_09;367;Sapata 09 do Mancal Escora;T19;6;Gerador;Mancal Combinado;Segm Escora;Temperatura
+BE_CG_PT_03;99;Sapata 03 do Mancal  Guia;T5;18;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_11;101;Sapata 11 do Mancal  Guia;T6;0;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_02;311;Sapata 02 do Mancal  Guia;T16;10;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_04;312;Sapata 04 do Mancal  Guia;T16;11;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_06;313;Sapata 06 do Mancal  Guia;T16;12;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_08;314;Sapata 08 do Mancal  Guia;T16;13;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_10;315;Sapata 10 do Mancal  Guia;T16;14;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_12;316;Sapata 12 do Mancal  Guia;T16;15;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_13;317;Sapata 13 do Mancal  Guia;T16;16;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_14;318;Sapata 14 do Mancal  Guia;T16;17;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_16;319;Sapata 16 do Mancal  Guia;T16;18;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_09;368;Sapata 09 do Mancal Guia;T19;7;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_05;369;Sapata 05 do Mancal Guia;T19;8;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_CG_PT_01;370;Sapata 01 do Mancal Guia;T19;9;Gerador;Mancal Combinado;Segm Guia;Temperatura
+BE_COB_X_AV;407;Direcao Brasil-Paraguay;V1;6;Gerador;Mancal Combinado;Segm Guia;Aceleracao
+BE_COB_Y_AV;408;Direcao Montante-Jusante;V1;7;Gerador;Mancal Combinado;Segm Guia;Aceleracao
+BE_COB_Z_AV;409;Direcao Axial;V1;8;Gerador;Mancal Combinado;Segm Guia;Aceleracao
+SH_COB_X_RV;421;Direcao Brasil-Paraguay;V2;4;Gerador;Mancal Combinado;Segm Guia;Deslocamento
+SH_COB_Y_RV;422;Direcao Montante-Jusante;V2;5;Gerador;Mancal Combinado;Segm Guia;Deslocamento
+BE_COB_Z_RV;423;Direcao Axial;V2;6;Gerador;Mancal Combinado;Segm Guia;Deslocamento
+BE_UG_IW;83;Entrada;T5;2;Gerador;Mancal Guia Superior;Agua;Temperatura
+BE_UG_OT_02;90;Ponto 02;T5;9;Gerador;Mancal Guia Superior;Oleo;Temperatura
+BE_UG_OT_03;373;Ponto 03;T19;12;Gerador;Mancal Guia Superior;Oleo;Temperatura
+BE_UG_PT_12;86;Sapata 12 do Mancal Guia Superior;T5;5;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_04;88;Sapata 04 do Mancal Guia Superior;T5;7;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_01;296;Sapata 01 do Mancal Guia Superior;T15;15;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_03;297;Sapata 03 do Mancal Guia Superior;T15;16;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_05;298;Sapata 05 do Mancal Guia Superior;T15;17;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_06;299;Sapata 06 do Mancal Guia Superior;T15;18;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_07;300;Sapata 07 do Mancal Guia Superior;T15;19;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_09;301;Sapata 09 do Mancal Guia Superior;T16;0;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_11;302;Sapata 11 do Mancal Guia Superior;T16;1;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_13;303;Sapata 13 do Mancal Guia Superior;T16;2;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_14;304;Sapata 14 do Mancal Guia Superior;T16;3;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_15;305;Sapata 15 do Mancal Guia Superior;T16;4;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_02;371;Sapata 02 do Mancal Guia Superior;T19;10;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UG_PT_10;372;Sapata 10 do Mancal Guia;T19;11;Gerador;Mancal Guia Superior;Segm Guia;Temperatura
+BE_UGB_X_AV;405;Direcao Brasil-Paraguay;V1;4;Gerador;Mancal Guia Superior;Segm Guia;Aceleracao
+BE_UGB_Y_AV;406;Direcao Montante-Jusante;V1;5;Gerador;Mancal Guia Superior;Segm Guia;Aceleracao
+SH_UGB_X_RV;419;Direcao Brasil-Paraguay;V2;2;Gerador;Mancal Guia Superior;Segm Guia;Deslocamento
+SH_UGB_Y_RV;420;Direcao Montante-Jusante;V2;3;Gerador;Mancal Guia Superior;Segm Guia;Deslocamento
+T01_00;1;Temperatura Reserva;T1;0;Reserva;;;Temperatura
+T01_01;2;Temperatura Reserva;T1;1;Reserva;;;Temperatura
+T02_09;30;Temperatura Reserva;T2;9;Reserva;;;Temperatura
+T02_12;33;Temperatura Reserva;T2;12;Reserva;;;Temperatura
+T03_00;41;Temperatura Reserva;T3;0;Reserva;;;Temperatura
+T04_15;76;Temperatura Reserva;T4;15;Reserva;;;Temperatura
+T05_03;84;Temperatura Reserva;T5;3;Reserva;;;Temperatura
+T05_04;85;Temperatura Reserva;T5;4;Reserva;;;Temperatura
+T05_06;87;Temperatura Reserva;T5;6;Reserva;;;Temperatura
+T05_08;89;Temperatura Reserva;T5;8;Reserva;;;Temperatura
+T05_10;91;Temperatura Reserva;T5;10;Reserva;;;Temperatura
+T05_11;92;Temperatura Reserva;T5;11;Reserva;;;Temperatura
+T05_12;93;Temperatura Reserva;T5;12;Reserva;;;Temperatura
+T05_14;95;Temperatura Reserva;T5;14;Reserva;;;Temperatura
+T05_15;96;Temperatura Reserva;T5;15;Reserva;;;Temperatura
+T05_17;98;Temperatura Reserva;T5;17;Reserva;;;Temperatura
+T05_19;100;Temperatura Reserva;T5;19;Reserva;;;Temperatura
+T06_02;103;Temperatura Reserva;T6;2;Reserva;;;Temperatura
+T06_08;109;Temperatura Reserva;T6;8;Reserva;;;Temperatura
+T06_11;112;Temperatura Reserva;T6;11;Reserva;;;Temperatura
+T18_07;348;Temperatura Reserva;T18;7;Reserva;;;Temperatura
+T18_11;352;Temperatura Reserva;T18;11;Reserva;;;Temperatura
+T18_12;353;Temperatura Reserva;T18;12;Reserva;;;Temperatura
+T18_14;355;Temperatura Reserva;T18;14;Reserva;;;Temperatura
+T19_17;378;Temperatura Reserva;T19;17;Reserva;;;Temperatura
+T19_18;379;Temperatura Reserva;T19;18;Reserva;;;Temperatura
+T19_19;380;Temperatura Reserva;T19;19;Reserva;;;Temperatura
+T20_00;381;Temperatura Reserva;T20;0;Reserva;;;Temperatura
+T20_01;382;Temperatura Reserva;T20;1;Reserva;;;Temperatura
+T20_02;383;Temperatura Reserva;T20;2;Reserva;;;Temperatura
+T20_03;384;Temperatura Reserva;T20;3;Reserva;;;Temperatura
+T20_04;385;Temperatura Reserva;T20;4;Reserva;;;Temperatura
+T20_05;386;Temperatura Reserva;T20;5;Reserva;;;Temperatura
+T20_06;387;Temperatura Reserva;T20;6;Reserva;;;Temperatura
+T20_07;388;Temperatura Reserva;T20;7;Reserva;;;Temperatura
+T20_08;389;Temperatura Reserva;T20;8;Reserva;;;Temperatura
+T20_09;390;Temperatura Reserva;T20;9;Reserva;;;Temperatura
+T20_10;391;Temperatura Reserva;T20;10;Reserva;;;Temperatura
+T20_11;392;Temperatura Reserva;T20;11;Reserva;;;Temperatura
+T20_12;393;Temperatura Reserva;T20;12;Reserva;;;Temperatura
+T20_13;394;Temperatura Reserva;T20;13;Reserva;;;Temperatura
+T20_14;395;Temperatura Reserva;T20;14;Reserva;;;Temperatura
+T20_15;396;Temperatura Reserva;T20;15;Reserva;;;Temperatura
+T20_16;397;Temperatura Reserva;T20;16;Reserva;;;Temperatura
+T20_17;398;Temperatura Reserva;T20;17;Reserva;;;Temperatura
+T20_18;399;Temperatura Reserva;T20;18;Reserva;;;Temperatura
+T20_19;400;Temperatura Reserva;T20;19;Reserva;;;Temperatura
+V01_15;416;Entradas Rapidas;V1;15;Reserva;;;Aceleracao
+BE_TG_CW_IN;358;Entrada;T18;17;Turbina;Agua;;Temperatura
+TU_SCE_W_PR;413;Entrada da Caixa Espiral;V1;12;Turbina;Caixa Espiral;;Pressao
+BE_TG_OT_02;349;Ponto 02;T18;8;Turbina;Oleo;;Temperatura
+BE_TG_OT_01;377;Mancal  Guia da Turbina;T19;16;Turbina;Oleo;;Temperatura
+BE_TG_PT_01;350;Sapata 01;T18;9;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_02;351;Sapata 02;T18;10;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_04;354;Sapata 04;T18;13;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_06;356;Sapata 06;T18;15;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_07;357;Sapata 07;T18;16;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_09;359;Sapata 09;T18;18;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_10;360;Sapata 10;T18;19;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_12;361;Sapata  12;T19;0;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_08;375;Sapata 08;T19;14;Turbina;Segm Guia;;Temperatura
+BE_TG_PT_05;376;Sapata 05;T19;15;Turbina;Segm Guia;;Temperatura
+BE_TGB_X_AV;410;Direcao Brasil-Paraguay;V1;9;Turbina;Segm Guia;;Aceleracao
+BE_TGB_Y_AV;411;Direcao Montante-Jusante;V1;10;Turbina;Segm Guia;;Aceleracao
+SH_KPH_X_01;417;Sinal de Referencia 01;V2;0;Turbina;Segm Guia;;Tacometro
+SH_KPH_X_02;418;Sinal de Referencia 02;V2;1;Turbina;Segm Guia;;Tacometro
+SH_TGB_X_RV;424;Direcao Brasil-Paraguay;V2;7;Turbina;Segm Guia;;Deslocamento
+SH_TGB_Y_RV;425;Direcao Montante-Jusante;V2;8;Turbina;Segm Guia;;Deslocamento
+TU_HCV_Z_AV;412;Direcao Axial;V1;11;Turbina;Tampa;;Aceleracao
+TU_HCV_W_PR;415;Tampa da Turbina;V1;14;Turbina;Tampa;;Pressao
+TU_DRT_W_PR;414;Tubo de Sucção;V1;13;Turbina;Tubo de Succao;;Pressao
