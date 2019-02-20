@@ -17,50 +17,12 @@
 		}
 	});
 
-      function show(selectedObject){
-        var x = parseInt(selectedObject.value, 10);
-        gameInstance.SendMessage("ExcelManager","Vistas", x);
-        gameInstance.SendMessage("Camera","ResetTarget", "");
-      }
-
-      function goSensor(selectedObject){
-        var x = selectedObject.value;
-        gameInstance.SendMessage("Camera","GoSensorIntegracao", x);
-      }
-	  
     </script>
 
-      Vistas:  
-      <select id = "vista" onchange="show(this)">
-      <option value = "">Selecione</option>
-      <option value = 0>Front</option>
-      <option value = "1">Left</option>
-      <option value = "2">Right</option>
-      <option value = "3">Back</option>
-      <option value = "4">Bottom</option>
-      <option value = "5">Top</option>
-      <option value = "6">Iso</option>
-      </select>
-      </div>
-
-      Sensor:  
-      <select id = "sensor" onchange="goSensor(this)">
-      <option value = "">Selecione</option>
-      <option value = "ST_HE_CA_06">ST_HE_CA_06</option>
-      <option value = "ST_HE_HA_12">ST_HE_HA_12</option>
-      <option value = "ST_HE_HW_13">ST_HE_HW_13</option>
-      <option value = "AG_GE_06">AG_GE_06</option>
-      <option value = "ST_CO_15">ST_CO_15</option>
-      <option value = "ST_SL_03">ST_SL_03</option>
-      <option value = "ST_WI_11">ST_WI_11</option>
-      <option value = "ST_WI_PW071">ST_WI_PW071</option>
-      </select>
-      </div>
-    
   </head>
   <body>
     <div class="webgl-content">
-      <div id="gameContainer" style="width: 1066px; height: 600px"></div> 
+      <div id="gameContainer" style="width: 1240px; height: 775px"></div> 
 
       <div class="footer">
         <div class="webgl-logo"></div>
