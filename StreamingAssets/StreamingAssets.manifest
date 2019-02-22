@@ -1,25 +1,25 @@
 ManifestFileVersion: 0
-CRC: 1045835727
+CRC: 3115628780
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: cubo.3d
-      Dependencies: {}
-    Info_1:
       Name: barramento.3d
       Dependencies: {}
-    Info_2:
+    Info_1:
       Name: barrasinf.3d
       Dependencies: {}
-    Info_3:
+    Info_2:
       Name: barrassup.3d
       Dependencies: {}
-    Info_4:
+    Info_3:
       Name: carcaca.3d
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: nucleo.3d
       Dependencies: {}
+    Info_5:
+      Name: admissao.3d
+      Dependencies: {}
     Info_6:
-      Name: trocadores.3d
+      Name: trocadortubulacao.3d
       Dependencies: {}
