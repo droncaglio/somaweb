@@ -1,0 +1,14 @@
+{
+"companyName": "AIS",
+"productName": "SOMA3D",
+"dataUrl": "WEBdev ASM.data.unityweb",
+"wasmCodeUrl": "WEBdev ASM.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBdev ASM.wasm.framework.unityweb",
+"wasmSymbolsUrl": "WEBdev ASM.wasm.symbols.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
